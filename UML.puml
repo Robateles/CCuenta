@@ -1,0 +1,10 @@
+@startuml
+class cuenta.CCuenta {
++ double dSaldo
++ {static} void main(String[])
++ int ingresar(double)
++ void retirar(double)
+}
+
+
+@enduml
